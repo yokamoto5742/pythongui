@@ -1,2 +1,2 @@
-"# pythongui" 
+pythonguiの説明 
 pythonのTKinterで作成したGUIアプリケーションです。
