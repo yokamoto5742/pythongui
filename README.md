@@ -1,3 +1,2 @@
-pythonguiの説明
-
+pythonguiの説明<br>
 pythonのTKinterで作成したGUIアプリケーションです。
